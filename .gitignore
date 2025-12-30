@@ -1,8 +1,7 @@
 # Ignore raw data
 data/raw/
 
-# Ignore large CSVs
-*.csv
+
 
 # Python cache
 __pycache__/
