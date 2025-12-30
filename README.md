@@ -15,41 +15,72 @@ The system analyzes historical stock market data, computes risk-related metrics,
  Build a user-friendly web application for investors
 
 # METHODOLOGY:
-**1. DATA COLLECTION:**
- Historical NSE stock data (Kaggle)
- Raw data excluded from GitHub due to size constraints
-**2. DATA PREPROCESSING:**
- Cleaning and formatting
- Feature engineering:
-    Average Return
-    Volatility
-    Risk Score (return–volatility based)
-**3. RISK CLASSIFICATION:**
- Quantile-based classification (33rd & 66th percentiles)
- Categorizes stocks into:
-    Low Risk
-    Medium Risk
-    High Risk
-**4. VISUALIZATION AND ANALYSIS:**
- Risk vs Return scatter plots
- Risk distribution bar charts
- Dashboard summary statistics
-**5. DEPLOYMENT**
- Streamlit Cloud
- Uses preprocessed data for fast and reliable execution
+**1. DATA COLLECTION:**  
+
+ Historical NSE stock data (Kaggle)  
+ 
+ Raw data excluded from GitHub due to size constraints  
+ 
+**2. DATA PREPROCESSING:**  
+
+ Cleaning and formatting  
+ 
+ Feature engineering:  
+ 
+    Average Return  
+    
+    Volatility  
+    
+    Risk Score (return–volatility based)  
+    
+**3. RISK CLASSIFICATION:**  
+
+ Quantile-based classification (33rd & 66th percentiles)  
+ 
+ Categorizes stocks into:  
+ 
+    Low Risk  
+    
+    Medium Risk  
+    
+    High Risk  
+    
+**4. VISUALIZATION AND ANALYSIS:**  
+
+ Risk vs Return scatter plots  
+ 
+ Risk distribution bar charts  
+ 
+ Dashboard summary statistics  
+ 
+**5. DEPLOYMENT**  
+
+ Streamlit Cloud  
+ 
+ Uses preprocessed data for fast and reliable execution  
+ 
 
 # TECHNOLOGY STACK:
- Programming Language: Python
- Libraries: Pandas, NumPy, Matplotlib, Seaborn
- Web Framework: Streamlit
- Tools: Git, GitHub, Jupyter Notebook
+ Programming Language: Python  
+ 
+ Libraries: Pandas, NumPy, Matplotlib, Seaborn  
+ 
+ Web Framework: Streamlit  
+ 
+ Tools: Git, GitHub, Jupyter Notebook  
+ 
 
 # APPLICATION FEATURES:
- Dashboard overview of stock risk distribution
- Risk vs Return visualization
- Risk-based stock recommendations
- Downloadable recommendation results
- Clean navigation using sidebar
+ Dashboard overview of stock risk distribution  
+ 
+ Risk vs Return visualization  
+ 
+ Risk-based stock recommendations  
+ 
+ Downloadable recommendation results  
+ 
+ Clean navigation using sidebar  
+ 
 
 # SAMPLE INSIGHTS:
  Stocks are evenly distributed across risk levels
