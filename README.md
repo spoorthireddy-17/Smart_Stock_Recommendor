@@ -61,13 +61,13 @@ The system analyzes historical stock market data, computes risk-related metrics,
  
 
 # TECHNOLOGY STACK:
- Programming Language: Python  
+ **Programming Language:** Python  
  
- Libraries: Pandas, NumPy, Matplotlib, Seaborn  
+ **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
  
- Web Framework: Streamlit  
+ **Web Framework:** Streamlit  
  
- Tools: Git, GitHub, Jupyter Notebook  
+ **Tools:** Git, GitHub, Jupyter Notebook  
  
 
 # APPLICATION FEATURES:
@@ -83,6 +83,8 @@ The system analyzes historical stock market data, computes risk-related metrics,
  
 
 # SAMPLE INSIGHTS:
- Stocks are evenly distributed across risk levels
- Higher risk generally correlates with higher returns
+ Stocks are evenly distributed across risk levels  
+ 
+ Higher risk generally correlates with higher returns  
+ 
  Quantile-based classification provides stable and interpretable results
