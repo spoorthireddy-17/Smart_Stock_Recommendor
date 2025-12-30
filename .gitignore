@@ -1,0 +1,13 @@
+# Ignore raw data
+data/raw/
+
+# Ignore large CSVs
+*.csv
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+.env
