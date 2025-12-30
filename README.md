@@ -88,3 +88,5 @@ The system analyzes historical stock market data, computes risk-related metrics,
  Higher risk generally correlates with higher returns  
  
  Quantile-based classification provides stable and interpretable results
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartstockrecommendor.streamlit.app/)
